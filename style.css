@@ -1,4 +1,10 @@
 h1{
     background-color: orange;
     color: white;
+    padding:5px;
+}
+h3{
+    background-color: red;
+    color: white;
+    padding: 5px;
 }
